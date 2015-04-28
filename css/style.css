@@ -10,9 +10,10 @@ p {
 h1 {
 	text-align: center;
 	border: solid 1px green;
+	text-decoration: none;
 }
 
 a {
-	color: black;
+	color: yellow;
 	text-decoration: none;
 }
